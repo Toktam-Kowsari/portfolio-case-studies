@@ -16,3 +16,8 @@ This is my own design that inspired from different components of Metronic templa
 
 -----------------------------------------------------
 
+- [E-commerce UI design case study](https://totkam-kowsari.github.io/portfolio-case-studies/01-ecommerce%20case%20study.pdf)
+
+This is an UI case study for an e-commerce application.
+
+-----------------------------------------------------
